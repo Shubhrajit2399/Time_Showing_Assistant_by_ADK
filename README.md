@@ -25,3 +25,13 @@ You will require API Key as well. Get it from Google AI Studio.
 ##5. Run the adk agent from the terminal now and ask questions:
 
 <img width="563" height="222" alt="Screenshot 2025-11-12 at 9 19 53 AM" src="https://github.com/user-attachments/assets/5f4ac318-3ca9-4e11-9722-765cfc65bae2" />
+
+##6. The ADK framework provides web interface you can use to test and interact with your agent.
+
+<img width="1437" height="313" alt="Screenshot 2025-11-12 at 9 21 20 AM" src="https://github.com/user-attachments/assets/7c9c7ccd-5e3c-4f9c-94a8-8cfd5468ffa5" />
+
+Web Interface:
+
+<img width="1434" height="858" alt="Screenshot 2025-11-12 at 9 23 15 AM" src="https://github.com/user-attachments/assets/581fedc7-0bdd-4de1-9833-9041a1aafb44" />
+
+<!-End_Of_File->
