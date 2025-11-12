@@ -14,4 +14,8 @@ pip install timezonefinder
 
 pip install datetime
 
+##3. Create ADK agent and configure it as per the steps as showed below in cmdline:
+
 <img width="565" height="352" alt="Screenshot 2025-11-12 at 9 17 46 AM" src="https://github.com/user-attachments/assets/363436f0-198a-42c6-8bf2-7e3b3924aa45" />
+
+You will require API Key as well. Get it from Google AI Studio.
