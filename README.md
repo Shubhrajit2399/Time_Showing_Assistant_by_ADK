@@ -5,3 +5,10 @@ This is an AI Assistant which shows live-time of different given city created by
 
 ##1. Need to install ADK in local machine:
 pip install google-adk
+##2. Install some more libraries to get real datetime:
+
+pip install geopy
+
+pip install timezonefinder
+
+pip install datetime
