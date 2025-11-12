@@ -19,3 +19,9 @@ pip install datetime
 <img width="565" height="352" alt="Screenshot 2025-11-12 at 9 17 46 AM" src="https://github.com/user-attachments/assets/363436f0-198a-42c6-8bf2-7e3b3924aa45" />
 
 You will require API Key as well. Get it from Google AI Studio.
+
+##4. The ADK repository will be visible to you in the filepath of the local machine. Update the agent.py and add instructions to show live-time of asked cities in realtime.
+
+##5. Run the adk agent from the terminal now and ask questions:
+
+<img width="563" height="222" alt="Screenshot 2025-11-12 at 9 19 53 AM" src="https://github.com/user-attachments/assets/5f4ac318-3ca9-4e11-9722-765cfc65bae2" />
