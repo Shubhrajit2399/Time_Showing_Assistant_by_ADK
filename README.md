@@ -5,6 +5,7 @@ This is an AI Assistant which shows live-time of different given city created by
 
 ##1. Need to install ADK in local machine:
 pip install google-adk
+
 ##2. Install some more libraries to get real datetime:
 
 pip install geopy
@@ -12,3 +13,5 @@ pip install geopy
 pip install timezonefinder
 
 pip install datetime
+
+<img width="565" height="352" alt="Screenshot 2025-11-12 at 9 17 46 AM" src="https://github.com/user-attachments/assets/363436f0-198a-42c6-8bf2-7e3b3924aa45" />
